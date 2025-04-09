@@ -1,0 +1,59 @@
+* {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+}
+
+.container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: start;
+  margin-left: 100px;
+}
+
+.btn {
+  display: flex;
+  gap: 50px;
+  margin-top: 25px;
+  margin-left: 100px;
+}
+
+.btn button {
+  background: none;
+  border: none;
+  font-size: large;
+  cursor: pointer;
+}
+
+.input-tag {
+  margin-top: 20px;
+  margin-left: 27rem;
+  position: relative;
+}
+
+.input {
+  padding: 14px;
+  padding-right: 8rem;
+  border-radius: 8px;
+  border: none;
+  background-color: aliceblue;
+}
+
+.search-icon {
+  width: 15px;
+  height: auto;
+  position: absolute;
+  right: 18px;
+  top: 28%;
+}
+
+.register-btn {
+  margin-top: 20px;
+  margin-left: 4rem;
+  background-color: #e67451;
+  font-weight: 500;
+  color: white;
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 8px;
+  border: none;
+}
