@@ -87,6 +87,7 @@
 
 .btn-content {
   display: flex;
+  margin-left: -20px;
 }
 
 .register-btn2 {
@@ -128,4 +129,10 @@
   background-color: white;
   border: none;
   cursor: pointer;
+}
+
+.text {
+  display: flex;
+  gap: 60px;
+  margin-top: 25px;
 }
