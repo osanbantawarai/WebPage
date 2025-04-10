@@ -56,4 +56,76 @@
   padding-right: 20px;
   border-radius: 8px;
   border: none;
+  cursor: pointer;
+}
+
+.hero {
+  display: flex;
+  justify-content: space-between;
+  margin: 100px;
+  margin-top: 20px;
+}
+
+.hero-content {
+  margin-top: 30px;
+}
+
+.hero-content h3 {
+  color: #e67451;
+  margin-bottom: -50px;
+}
+
+.hero-content h1 {
+  font-size: 90px;
+  text-align: left;
+}
+
+.yoga-img {
+  width: 40rem;
+  height: 40rem;
+}
+
+.btn-content {
+  display: flex;
+}
+
+.register-btn2 {
+  margin-left: 20px;
+  background-color: #e67451;
+  font-weight: 500;
+  color: white;
+  padding: 15px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+}
+
+.class-btn {
+  position: relative;
+  margin-left: 40px;
+}
+
+.play-icon {
+  width: 25px;
+  margin-left: 10px;
+  top: 20%;
+  margin-right: -40px;
+  position: absolute;
+  cursor: pointer;
+}
+
+.play-btn {
+  margin-left: 2rem;
+  font-weight: 500;
+  color: #e67451;
+  padding: 15px;
+  font-size: 15px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 8px;
+  background-color: white;
+  border: none;
+  cursor: pointer;
 }
